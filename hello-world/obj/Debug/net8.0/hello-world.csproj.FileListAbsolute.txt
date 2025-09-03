@@ -1,0 +1,15 @@
+/home/dula/study/c-sharp/my-first-csharp/hello-world/bin/Debug/net8.0/hello-world
+/home/dula/study/c-sharp/my-first-csharp/hello-world/bin/Debug/net8.0/hello-world.deps.json
+/home/dula/study/c-sharp/my-first-csharp/hello-world/bin/Debug/net8.0/hello-world.runtimeconfig.json
+/home/dula/study/c-sharp/my-first-csharp/hello-world/bin/Debug/net8.0/hello-world.dll
+/home/dula/study/c-sharp/my-first-csharp/hello-world/bin/Debug/net8.0/hello-world.pdb
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.GeneratedMSBuildEditorConfig.editorconfig
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfoInputs.cache
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.AssemblyInfo.cs
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.csproj.CoreCompileInputs.cache
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.sourcelink.json
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.dll
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/refint/hello-world.dll
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.pdb
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/hello-world.genruntimeconfig.cache
+/home/dula/study/c-sharp/my-first-csharp/hello-world/obj/Debug/net8.0/ref/hello-world.dll
