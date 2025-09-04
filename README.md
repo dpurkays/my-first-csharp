@@ -40,3 +40,16 @@ The var keyword tells the C# compiler that the data type is implied by the assig
 var message = "Hello world!"; // so its implied that var is a string
 message = 10.703m; // this would throw an error
 ```
+
+### String Formating
+
+`@`: verbatim string literal will keep all whitespace and characters without the need to escape the backslash
+
+**unicode characters**: Use the \u plus a four-character code to represent Unicode characters (UTF-16) in a string.
+
+```
+// Kon'nichiwa World
+Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
+```
+
+**String concatnation** : use +
