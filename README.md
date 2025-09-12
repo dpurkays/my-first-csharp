@@ -53,3 +53,7 @@ Console.WriteLine("\u3053\u3093\u306B\u3061\u306F World!");
 ```
 
 **String concatnation** : use +
+
+**String interpolation**: combines multiple values into a single literal string by using a "template" and one or more interpolation expressions, indicated by { }
+
+### Basic Operations on numbers
